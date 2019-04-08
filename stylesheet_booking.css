@@ -1,0 +1,26 @@
+h1 {text-align: center;
+    font-size: 100px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: DarkSlateBlue;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: DarkSlateBlue;
+}
+
+body{background-color: AliceBlue}
+
+button{
+  background-color: none;
+}
+button:active{
+  background: Blue;
+}
+button:focus{
+  background: Blue;
+}
+input {
+  font-size: 20px;
+}
